@@ -12,7 +12,6 @@ elseif(gradenumber>=60)
 else
     gradehierarchy = 'E';
 end
-%fprintf('Your grade is:%s',gradehierarchy);
+
 
 end
-
